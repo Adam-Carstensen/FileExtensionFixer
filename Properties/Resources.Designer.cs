@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ISSO.Tools.FileExtensionFixer.Properties {
+namespace Revert.Tools.FileExtensionFixer.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace ISSO.Tools.FileExtensionFixer.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ISSO.Tools.FileExtensionFixer.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Revert.Tools.FileExtensionFixer.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

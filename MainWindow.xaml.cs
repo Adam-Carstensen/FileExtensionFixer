@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows;
-using CodaForte.IO.Files;
+using Revert.IO.Files;
 
-namespace CodaForte.FileExtensionFixer
+namespace Revert.FileExtensionFixer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

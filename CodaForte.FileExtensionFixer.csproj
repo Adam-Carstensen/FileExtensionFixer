@@ -42,7 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Ookii.Dialogs.Wpf">
-      <HintPath>..\..\Resources\WPF\Ookii.Dialogs.Wpf.dll</HintPath>
+      <HintPath>..\Libraries\WPF\Ookii.Dialogs.Wpf.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
@@ -100,9 +100,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CodaForte.IO\CodaForte.IO.csproj">
+    <ProjectReference Include="..\Libraries\Revert\IO\Revert.IO.csproj">
       <Project>{01eb00b9-1759-4d33-857b-85fdc8e627d3}</Project>
-      <Name>CodaForte.IO</Name>
+      <Name>Revert.IO</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

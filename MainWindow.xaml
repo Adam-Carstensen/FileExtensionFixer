@@ -1,4 +1,4 @@
-﻿<Window x:Class="CodaForte.FileExtensionFixer.MainWindow"
+﻿<Window x:Class="Revert.FileExtensionFixer.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="File Extension Fixer" Height="350" Width="525">
