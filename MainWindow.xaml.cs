@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows;
-using Revert.IO.Files;
+using Revert.Core.IO.Files;
 
 namespace Revert.FileExtensionFixer
 {
